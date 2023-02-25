@@ -14,10 +14,10 @@ export default function Men() {
                 <div className="flex flex-wrap -mx-4 -mb-10 text-center">
                     <div className="sm:w-1/2 mb-10 px-4">
                         <div className="rounded-lg h-100 overflow-hidden">
-                        <Image src='/img/gayeong.jpg' 
+                        <Image src='/img/gayeong.jpg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="content"
                             width={300}
-                            height={300}/>
+                            height={320}/>
                         </div>
                         <h2 className="title-font text-2xl font-semibold text-gray-900 mt-6 mb-3">회장 김가영</h2>
                         <p className="leading-relaxed text-base">2021언론정보대학 정보사회미디어학과 주전공<br/>
@@ -28,10 +28,10 @@ export default function Men() {
                     </div>
                     <div className="sm:w-1/2 mb-10 px-4">
                         <div className="rounded-lg h-100 overflow-hidden">
-                        <Image src='/img/minseo.jpg' 
+                        <Image src='/img/minseo.jpg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="content"
                             width={300}
-                            height={300}/>
+                            height={320}/>
                         </div>
                         <h2 className="title-font text-2xl font-semibold text-gray-900 mt-6 mb-3">부회장 김민서</h2>
                         <p className="leading-relaxed text-base">2022언론정보대학 정보사회미디어학과 주전공<br/>

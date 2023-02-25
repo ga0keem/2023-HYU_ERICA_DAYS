@@ -12,7 +12,7 @@ export default function Recruiting() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className="flex min-h-screen flex-col items-center justify-center text-gray-600 body-font">
-       <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col mt-10">
+       <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col mt-20">
          <Recru/>
        </div>
        <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col mt-20">
