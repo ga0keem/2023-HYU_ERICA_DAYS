@@ -32,7 +32,7 @@ export default function Team() {
                          <Image src='/img/휘성.jpg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="choi"
                             width={300}
-                            height={300}
+                            height={320}
                             objectFit="cover"/>
                         <div class="flex-grow sm:pl-8">
                             <h2 class="title-font font-semibold text-xl text-gray-900">최휘성</h2>
