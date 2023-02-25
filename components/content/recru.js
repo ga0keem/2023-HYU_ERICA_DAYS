@@ -10,7 +10,7 @@ export default function Rrcru() {
                 <p className="mb-8 text-xl leading-relaxed">2023.3.6 월 ~ 2023.3.10 금</p>
                 <div className="flex justify-center">
                     <Link href="https://open.kakao.com/o/sV7hawGe">
-                        <a className="btn-project">
+                        <a className="btn-project animate-bounce">
                             지원하러 가기
                         </a>
                     </Link>           
