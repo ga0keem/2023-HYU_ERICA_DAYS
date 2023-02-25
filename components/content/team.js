@@ -14,7 +14,7 @@ export default function Team() {
                 <div class="flex flex-wrap -m-4 mb-20">
                     <div class="p-4 lg:w-1/2">
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                         <Image src='/img/정해림.jpeg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
+                         <Image src='/img/해림.jpeg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="jung"
                             width={300}
                             height={300}
@@ -29,7 +29,7 @@ export default function Team() {
                     </div>
                     <div class="p-4 lg:w-1/2">
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                         <Image src='/img/최휘성.jpg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
+                         <Image src='/img/휘성.jpg' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="choi"
                             width={300}
                             height={300}
@@ -65,7 +65,7 @@ export default function Team() {
                     </div>
                     <div class="p-4 lg:w-1/2">
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                         <Image src='/img/김숭기.jpg'  className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4" 
+                         <Image src='/img/숭기.jpg'  className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4" 
                             alt="kim"
                             width={300}
                             height={300}
