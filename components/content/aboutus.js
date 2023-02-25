@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function AboutUs() {
     return(
@@ -17,6 +18,33 @@ export default function AboutUs() {
                 <h1 className="title-font sm:text-xl text-xl mb-5 font-medium text-gray-900">데이터 분석을 통해 다양한 사회 이슈 또는 미디어 현상을 향한 통찰력을 강화하는 것을 목표</h1>
                 <h1 className="title-font sm:text-xl text-xl mb-5 font-medium text-gray-900">학회원들의 주도적 스터디와 다양한 프로젝트를 진행하며 개개인의 성장에 실질적인 도움이 될 수 있는 커뮤니티</h1>
              </div>
+
+                <div className="lg:w-2/3 mx-auto mb-40">
+                    <div className="flex flex-wrap w-full relative mb-4">
+                        <Image src='/img/dvf.jpg' className="w-full object-cover h-full object-center absolute inset-0"
+                            alt="content"
+                            width={1386}
+                            height={671}/>
+                    </div>
+                    <div className="flex flex-wrap -mx-2">
+                        <div className="px-2 w-1/2">
+                            <div className="flex flex-wrap w-full relative">
+                                <Image src='/img/1학기.jpg' className="w-full object-cover h-full object-center absolute inset-0"
+                                alt="content"
+                                width={4031}
+                                height={2891}/>
+                            </div>
+                        </div>
+                        <div className="px-2 w-1/2">
+                            <div className="flex flex-wrap w-full relative">
+                               <Image src='/img/2학기.jpg' className="w-full object-cover h-full object-center absolute inset-0"
+                                alt="content"
+                                width={4031}
+                                height={2891}/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
              </>
     );
 }
