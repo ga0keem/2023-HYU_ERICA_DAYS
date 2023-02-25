@@ -48,7 +48,7 @@ export default function Team() {
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                          <Image src='/img/소희.png' className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4"
                             alt="han"
-                            width={300}
+                            width={280}
                             height={300}
                             objectFit="cover"/>
                         <div class="flex-grow sm:pl-8">
@@ -67,7 +67,7 @@ export default function Team() {
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                          <Image src='/img/숭기.jpg'  className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4" 
                             alt="kim"
-                            width={300}
+                            width={260}
                             height={300}
                             objectFit="cover"/>
                         <div class="flex-grow sm:pl-8">
@@ -85,8 +85,8 @@ export default function Team() {
                         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                         <Image src='/img/종운.png'  className="flex-shrink-0 rounded-lg w-48 h-48 sm:mb-0 mb-4" 
                             alt="keem"
-                            width={300}
-                            height={300}
+                            width={340}
+                            height={370}
                             objectFit="cover"/>
                         <div class="flex-grow sm:pl-8">
                             <h2 class="title-font font-semibold text-xl text-gray-900">김종운</h2>
