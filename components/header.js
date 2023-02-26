@@ -39,7 +39,7 @@ export default function Header(){
                         <a className="mr-5 hover:text-gray-900 text-lg">Projects</a>
                         </Link>
                         
-                        <a href="https://open.kakao.com/o/sV7hawGe" className="mr-5 hover:text-gray-900 text-lg">Contact</a>
+                        <a href="https://www.instagram.com/_hy_days" className="mr-5 hover:text-gray-900 text-lg">Instagram</a>
                     
                     </nav>
                     <DarkModeToggle/>
