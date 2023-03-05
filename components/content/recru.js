@@ -9,7 +9,7 @@ export default function Rrcru() {
                 <h1 className="title-font sm:text-5xl text-3xl mb-5 font-semibold text-gray-900">2023년도 학회원 모집</h1>
                 <p className="mb-8 text-xl leading-relaxed">2023.3.6 월 ~ 2023.3.10 금</p>
                 <div className="flex justify-center">
-                    <Link href="https://open.kakao.com/o/sV7hawGe">
+                    <Link href="https://forms.gle/BWQNddwnDxftxsqH9">
                         <a className="btn-project animate-bounce">
                             지원하러 가기
                         </a>
